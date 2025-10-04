@@ -42,4 +42,16 @@
 |  |
 | ------- |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+## Array
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+## Matrix
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
