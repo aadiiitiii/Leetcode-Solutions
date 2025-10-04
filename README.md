@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
