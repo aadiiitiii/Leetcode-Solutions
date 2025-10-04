@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Recursion
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+## String
+|  |
+| ------- |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 <!---LeetCode Topics End-->
