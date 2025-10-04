@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 |  |
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/1258-article-views-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
