@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
