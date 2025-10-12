@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Recursion
 |  |
