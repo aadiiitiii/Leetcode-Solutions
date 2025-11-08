@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3678-design-task-manager](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 ## Design
@@ -48,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aadiiitiii/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
